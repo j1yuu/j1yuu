@@ -1,12 +1,11 @@
 ## Professional pixel-perfect hater
 
 ### Frontend
-- Nextjs 15+
-- React 18+
-- Typescript
-- Tailwindcss
-- Vite
+- Nextjs + React, Typescript
+- Tailwind, Shadcn
+- Zustand/Redux
 
-### Devops
-- Linux
+### Backend
+- Spring Boot (security, web, hibernate + jpa)
+- Postgresql, Clickhouse
 - Docker
